@@ -1,4 +1,3 @@
-@@ -0,0 +1,11 @@
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
